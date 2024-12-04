@@ -22,11 +22,11 @@ Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal user) |
 **Creator** [feder-cr](https://github.com/feder-cr), Co-Founder of AIHawk </br>
 As AIHawk is focusing on their proprietary product - solving problems in hiring for companies, currently this project is led, managed, and maintained by a group of open-source contributors, with a focus on building tools to help job seekers land the jobs they deserve.
 
-**Project Maintainers / Leads**: [surapuramakhil](https://github.com/surapuramakhil), [sarob](https://github.com/sarob), [cjbbb](https://github.com/cjbbb)
+**Project Maintainers / Leads**: [ranga swami](https://github.com), [sarob](https://github.com), [cjbbb](https://github.com)
 
 We are looking to expand our FOSS maintainers team! If you are from a non-technical background, you can be part of the project management team, triaging issues, and shaping the project. If you are a technical person, you can join in doing code reviews, participating in releases, and buidling better version of this product.
 
-reach out to [surapuramakhil](https://github.com/surapuramakhil) on [Discord](https://discord.gg/MYYwG8JyrQ). [Special thanks](#special-thanks) 
+reach out to [ranga swami](https://github.com) on [Discord](https://discord). [Special thanks](#special-thanks) 
 
 Auto_Jobs_Applier_AIHawk is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk a powerful tool for job seekers worldwide.
 
